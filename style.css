@@ -21,7 +21,7 @@ main p {
 }
 .header {
   display: grid;
-  justify-items: right;
+  justify-items: center;
   gap: 3.75rem;
 }
 .menu {
