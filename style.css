@@ -59,10 +59,6 @@ main {
   gap: 1.25rem;
   justify-items: end;
 }
-/* h1::first-letter {
-  initial-letter: 4;
-  color: #e23;
-} */
 
 h1::after {
   content: "";
@@ -92,7 +88,6 @@ h1::after {
   object-fit: cover;
   object-position: top right;
 }
-
 .card-3 {
   font-size: 4rem;
   color: #c6c6c6;
